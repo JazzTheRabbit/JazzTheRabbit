@@ -5,7 +5,7 @@
 
 ## About me
 
-- Building practical, hands-on skills across the offensive security spectrum — Active Directory, Linux, and web applications.
+- Building practical, hands-on skills across the offensive security spectrum mainly about Active Directory, Linux, and web applications.
 - Working through **HackTheBox**,**VulnLab** and **TryHackMe** machines, with a strong focus on Windows AD attack chains (Kerberos, ACLs, lateral movement, privilege escalation).
 - Comfortable enumerating and exploiting Linux hosts, and exploring common web application vulnerabilities.
 - Developing **custom tooling** to speed up enumeration and credential testing.
@@ -15,12 +15,12 @@
 
 ## Focus Areas
 
-- Windows Active Directory attacks — Kerberos abuse, ACL/DACL exploitation, Shadow Credentials, BloodHound-driven attack paths
+- Windows Active Directory attacks — Kerberos abuse, ACL/DACL exploitation, Shadow Credentials, BloodHound
 - Credential access & lateral movement across Windows environments
 - Linux enumeration & privilege escalation fundamentals
-- Intro-level web application testing (OWASP Top 10)
-- Offensive scripting & automation (Bash, Python)
-- CTF-based methodology building (HTB, VulnLab)
+- Intro-level web application testing
+- Offensive scripting & automation
+- CTF-based methodology building
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## Tools
 
-- **[DeepShare](#)** — SMB share permission auditor. Tests read/write/delete access at every subdirectory level, catching NTFS ACL mismatches that tools like nxc and smbmap miss at the share root.
+- **[DeepShare](https://github.com/JazzTheRabbit/DeepShare)** — SMB share permission auditor. Tests read/write/delete access at every subdirectory level, catching NTFS ACL mismatches that tools like nxc and smbmap miss at the share root.
 
 ---
 
