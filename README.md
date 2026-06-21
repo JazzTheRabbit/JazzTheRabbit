@@ -7,7 +7,7 @@
 ## About me
 
 - Building practical, hands-on skills across the offensive security spectrum mainly about Active Directory, Linux, and web applications.
-- Working through **HackTheBox**,**VulnLab** and **TryHackMe** machines, with a strong focus on Windows AD attack chains (Kerberos, ACLs, lateral movement, privilege escalation).
+- Working through HackTheBox, VulnLab and TryHackMe Machines, with a strong focus on Windows Active Directory enviorments.
 - Comfortable enumerating and exploiting Linux hosts, and exploring common web application vulnerabilities.
 - Developing **custom tooling** to speed up enumeration and credential testing.
 - Sharing write-ups and tools as I build toward a professional presence in security.
