@@ -1,7 +1,6 @@
-# Hi, I'm krack3n
+# Offensive Security
 
-**Offensive Security | Penetration Testing**
-
+[![YouTube](https://img.shields.io/badge/YouTube-Jazz--The--Rabbit-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Jazz-The-Rabbit)
 ---
 
 ## About me
@@ -16,12 +15,12 @@
 
 ## Focus Areas
 
-- Active Directory enumeration & exploitation (Kerberos, Shadow Credentials, ACL abuse, BloodHound-driven attack paths)
-- Linux privilege escalation & enumeration
-- Web application security (OWASP Top 10, manual testing)
-- SMB share auditing & lateral movement
+- Windows Active Directory attacks — Kerberos abuse, ACL/DACL exploitation, Shadow Credentials, BloodHound-driven attack paths
+- Credential access & lateral movement across Windows environments
+- Linux enumeration & privilege escalation fundamentals
+- Intro-level web application testing (OWASP Top 10)
 - Offensive scripting & automation (Bash, Python)
-- CTF methodology (HTB, VulnLab)
+- CTF-based methodology building (HTB, VulnLab)
 
 ---
 
@@ -39,11 +38,11 @@
 
 ## Tech Stack
 
-**Platforms:** Kali Linux, Windows AD Labs
+**Platforms:** Kali Linux, Windows Active Directory Labs
 
-**Languages:** Bash, Python
+**Languages:** Bash, Python, HTML, SQL
 
-**Tools:** NetExec (nxc), BloodHound, Impacket, Certipy, bloodyAD, smbmap, Burp Suite, ffuf
+**Tools:** NetExec, BloodHound, Impacket, Certipy, bloodyAD, smbmap, Burp Suite, ffuf
 
 ---
 
