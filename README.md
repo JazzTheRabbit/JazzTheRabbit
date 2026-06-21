@@ -1,6 +1,7 @@
 # Offensive Security
 
 [![YouTube](https://img.shields.io/badge/YouTube-Jazz--The--Rabbit-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Jazz-The-Rabbit)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/users/2126938)
 ---
 
 ## About me
