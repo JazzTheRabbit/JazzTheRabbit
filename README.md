@@ -30,7 +30,7 @@
 
 ---
 
-## Tools
+## Projects
 
 - **[DeepShare](https://github.com/JazzTheRabbit/DeepShare)** — SMB share permission auditor. Tests read/write/delete access at every subdirectory level, catching NTFS ACL mismatches that tools like nxc and smbmap miss at the share root.
 
