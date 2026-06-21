@@ -37,16 +37,6 @@
 
 ---
 
-## Tech Stack
-
-**Platforms:** Kali Linux, Windows Active Directory Labs
-
-**Languages:** Bash, Python, HTML, SQL
-
-**Tools:** NetExec, BloodHound, Impacket, Certipy, bloodyAD, smbmap, Burp Suite, ffuf
-
----
-
 ## Contact
 
 Open to connecting with others in the security community.
