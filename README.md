@@ -15,11 +15,11 @@
 
 ## Focus Areas
 
-- Windows Active Directory attacks — Kerberos abuse, ACL/DACL exploitation, Shadow Credentials, BloodHound
-- Credential access & lateral movement across Windows environments
-- Linux enumeration & privilege escalation fundamentals
+- Windows Active Directory attacks - Kerberos abuse, ACL/DACL exploitation, Shadow Credentials, BloodHound
+- Credential access & Lateral movement across Windows environments
+- Linux enumeration & Privilege escalation fundamentals
 - Intro-level web application testing
-- Offensive scripting & automation
+- Offensive scripting & Automation
 - CTF-based methodology building
 
 ---
