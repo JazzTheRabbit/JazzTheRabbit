@@ -33,8 +33,8 @@
 
 ## Projects
 
-- **[DeepShare](https://github.com/JazzTheRabbit/DeepShare)** — SMB share permission auditor. Tests read/write/delete access at every subdirectory level, catching NTFS ACL mismatches that tools like nxc and smbmap miss at the share root.
-
+- **[DeepShare](https://github.com/JazzTheRabbit/DeepShare)** - SMB share permission auditor. Tests Read/Write/Delete Access at every subdirectory level, Spot NTFS ACL mismatches.
+- **[FreePBX SQLi RCE](https://github.com/JazzTheRabbit/FreePBX-SQLi-RCE)** - FreePBX CVE-2025-57819 Unauthenticated SQLi to RCE PoC
 ---
 
 ## Contact
